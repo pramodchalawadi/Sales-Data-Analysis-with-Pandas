@@ -1,0 +1,11 @@
+Date,Region,Category,Sales,Quantity
+2025-01-01,North,Electronics,1200,3
+2025-01-02,South,Furniture,800,2
+2025-01-03,East,Clothing,500,5
+2025-01-04,West,Electronics,1500,4
+2025-01-05,North,Furniture,600,1
+2025-01-06,East,Electronics,1000,2
+2025-01-07,South,Clothing,700,6
+2025-01-08,West,Furniture,900,3
+2025-01-09,North,Clothing,650,4
+2025-01-10,East,Furniture,750,2
